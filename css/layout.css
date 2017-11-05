@@ -25,10 +25,10 @@
 /* Posititoning Classes */
 
 .span1 {
-  width: 33.3333%;
+  width: 29.3333%;
   float: left;
-  margin-right: 1em;
-  margin-bottom: 1em;
+  margin-right: 2%;
+  margin-bottom: 2%;
 }
 
 .span2 {
