@@ -23,7 +23,10 @@
 }
 
 /* Posititoning Classes */
+? {
+  column-count: 3;
+}
+
 figure {
   column-span: 2;
 }
-
