@@ -24,12 +24,12 @@
 
 /* Posititoning Classes */
 
-section.span1, section.span2, section.span3{
+section {
   column-count: 3;
 }
 
 .span1 {
-  column-span: 1;
+  column-span: none;
 }
 
 .span2 {
