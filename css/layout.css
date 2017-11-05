@@ -34,7 +34,6 @@
   margin-bottom: 2%;
 }
 
-
 .span2 {
   width: 66%;
   float: left;
@@ -44,4 +43,5 @@
   width: 32%;
   float: left;
   margin-bottom: 2%;
+  height: 100%;
 }
