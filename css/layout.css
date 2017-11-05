@@ -24,12 +24,8 @@
 
 /* Posititoning Classes */
 
-section {
-  column-count: 3;
-}
-
 .span1 {
-  width: 33.3333%;
+  column-count: 3;
 }
 
 .span2 {
