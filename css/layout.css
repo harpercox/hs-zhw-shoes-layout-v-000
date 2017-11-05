@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 
-.span1 .clear {
+.span1{
   width: 33.3333%;
   float: left;
 }
