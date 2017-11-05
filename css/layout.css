@@ -29,7 +29,7 @@ section {
 }
 
 .span1 {
-  column-span: 33.3333%;
+  width: 33.3333%;
 }
 
 .span2 {
