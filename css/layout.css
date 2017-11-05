@@ -36,6 +36,6 @@ section.span2 {
   column-span: 2;
 }
 
-section.span3 {
+.span3 {
   column-span: all;
 }
