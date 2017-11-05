@@ -29,13 +29,13 @@ section.span1, section.span2, section.span3{
 }
 
 .span1 {
-  column-span: 3;
+  column-span: "3";
 }
 
 .span2 {
-  column-span: 2;
+  column-span: "2";
 }
 
 .span3 {
-  column-span: 1;
+  column-span: "1";
 }
