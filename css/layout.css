@@ -27,9 +27,13 @@
 .span1 {
   width: 29.3333%;
   float: left;
+}
+
+.rm {
   margin-right: 2%;
   margin-bottom: 2%;
 }
+
 
 .span2 {
   width: 62.6666%;
