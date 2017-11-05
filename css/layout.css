@@ -28,11 +28,11 @@ section.span1, section.span2, section.span3{
   column-count: 3;
 }
 
-section.span1 {
+.span1 {
   column-span: 1;
 }
 
-section.span2 {
+.span2 {
   column-span: 2;
 }
 
