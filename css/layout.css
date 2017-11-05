@@ -24,12 +24,12 @@
 
 /* Posititoning Classes */
 
-.span1{
+.span1 {
   width: 33.3333%;
   float: left;
 }
 
 .span2 {
-  column-span: 66.6666%;
+  width: 66.6666%;
   float: left;
 }
