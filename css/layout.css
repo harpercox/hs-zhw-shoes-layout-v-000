@@ -31,8 +31,7 @@
 
 .span2 {
   column-span: 66.6666%;
+  float: left;
 }
 
-div.span3 {
-  column-span: all;
-}
+
