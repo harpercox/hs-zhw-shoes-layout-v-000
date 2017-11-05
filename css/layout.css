@@ -23,18 +23,18 @@
 }
 
 /* Posititoning Classes */
-.shadow {
-  column-count: 3;
-}
 
-.span1 {
+.shadow.span1 {
+  column-count: 3;
   column-span: 1;
 }
 
-.span2 {
+.shadow.span2 {
+  column-count: 3;
   column-span: 2;
 }
 
-.span3 {
+.shadow.span3 {
+  column-count: 3;
   column-span: 3;
 }
