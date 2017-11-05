@@ -30,8 +30,8 @@ section.span1 {
 }
 
 section.span2 {
-  column-count: 2;
   column-span: all;
+  column-count: 2;
 }
 
 section.span3 {
