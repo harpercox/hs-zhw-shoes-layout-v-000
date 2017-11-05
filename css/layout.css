@@ -29,7 +29,7 @@ section {
 }
 
 .span1 {
-  column-span: none;
+  column-span: 1;
 }
 
 .span2 {
