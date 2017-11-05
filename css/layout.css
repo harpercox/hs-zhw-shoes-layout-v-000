@@ -24,17 +24,18 @@
 
 /* Posititoning Classes */
 
-section.span1 {
+section.span1, section.span2, section.span3{
   column-count: 3;
+}
+
+section.span1 {
   column-span: 1;
 }
 
 section.span2 {
-  column-span: all;
-  column-count: 2;
+  column-span: 2;
 }
 
 section.span3 {
-  column-count: 1;
   column-span: all;
 }
