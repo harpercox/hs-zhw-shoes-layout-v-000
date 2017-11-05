@@ -23,5 +23,7 @@
 }
 
 /* Posititoning Classes */
-
+figure {
+  column-span: 2;
+}
 
