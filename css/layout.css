@@ -37,15 +37,18 @@
 .span2 {
   width: 66%;
   float: left;
+  display: table-cell;
 }
 
 .span3 {
   width: 32%;
   float: left;
   height: 100%;
+  display: table-cell;
 }
 
 .staytogether {
+  display: table;
 }
 
 footer {
