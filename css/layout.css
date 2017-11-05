@@ -35,6 +35,6 @@
 }
 
 section.shadow.span3 {
-  column-count: 3;
+  column-count: 1;
   column-span: all;
 }
